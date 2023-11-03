@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: vbnhdfghdfgdf-dev
+  labels:
+    environment-id: env_7111fd53-e886-4073-b510-6eb554e585df
+    project-id: project_4a5337b0-9eeb-4f9b-bc00-1e6e2a8a54d8
+    project-name: vbnhdfghdfgdf
+    environment-name: dev
+    organization-id: org_9aad87d0-abbc-48f9-9038-002316f0475a
